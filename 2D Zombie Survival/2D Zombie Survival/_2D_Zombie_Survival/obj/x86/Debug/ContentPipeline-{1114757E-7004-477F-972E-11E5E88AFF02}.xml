@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{1114757E-7004-477F-972E-11E5E88AFF02}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_SurvivalContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-08-04T02:26:32.7915118+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
