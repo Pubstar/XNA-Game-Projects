@@ -10,7 +10,7 @@ C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie 
 C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
 C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
 C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
-C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\obj\x86\Debug\_2D_Zombie_Survival.csprojResolveAssemblyReference.cache
 C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\obj\x86\Debug\_2D_Zombie_Survival.exe
 C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\obj\x86\Debug\_2D_Zombie_Survival.pdb
+C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\bin\x86\Debug\Content\player.xnb
