@@ -1,4 +1,5 @@
 ﻿using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 using System;
 using System.Collections.Generic;
@@ -9,37 +10,38 @@ namespace _2D_Zombie_Survival
 {
     class Chunk
     {
+        /// <summary>
+        /// Chunk position in world
+        /// </summary>
         public Vector2 cPosition { get; set; }
-        public Tile[] Tiles;
+        public Tile[,] Tiles;
 
         public Chunk(Vector2 cPosition)
         {
             this.cPosition = cPosition;
         }
 
-        public void Render()
+        public void Render(ContentManager Content)
         {
 
         }
 
-        private Tile[] MakeTiles()
+        private void Create()
         {
-            Tile[] tiles = new Tile[256];
+            Tiles = new Tile[16,16];
 
-            for (int i = 0; i < 256; i++)
+            for (int x = 0; x < 16; x++)
             {
-                tiles[i] = new Tile();
+                for (int y = 0; y < 16; y++)
+                {
+                    Tiles[x, y] = new Tile();
+                }
             }
-
-            return tiles;
         }
 
         public void Draw(SpriteBatch spriteBatch)
         {
-            for (int i = 0; i < 256; i++)
-            {
-                Tiles[i].Draw(spriteBatch);
-            }
+            
         }
     }
 }

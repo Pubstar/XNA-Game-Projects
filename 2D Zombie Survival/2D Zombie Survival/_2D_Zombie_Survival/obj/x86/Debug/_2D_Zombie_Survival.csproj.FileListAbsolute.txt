@@ -14,3 +14,10 @@ C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie 
 C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\obj\x86\Debug\_2D_Zombie_Survival.exe
 C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\obj\x86\Debug\_2D_Zombie_Survival.pdb
 C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\bin\x86\Debug\Content\player.xnb
+C:\Users\Tommy\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\bin\x86\Debug\Content\player.xnb
+C:\Users\Tommy\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\bin\x86\Debug\_2D_Zombie_Survival.exe
+C:\Users\Tommy\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\bin\x86\Debug\_2D_Zombie_Survival.pdb
+C:\Users\Tommy\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\obj\x86\Debug\_2D_Zombie_Survival.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tommy\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\obj\x86\Debug\_2D_Zombie_Survival.exe
+C:\Users\Tommy\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\obj\x86\Debug\_2D_Zombie_Survival.pdb

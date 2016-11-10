@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\bin\x86\Debug\Content\player.xnb</Output>
-      <Time>2016-08-16T12:12:41.7725901+02:00</Time>
+      <Output>C:\Users\Tommy\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2016-11-10T10:34:49.1915547+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -17,39 +17,39 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_SurvivalContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Pieter\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Tommy\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_SurvivalContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Tommy\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Tommy\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Tommy\Documents\GitHub\XNA-Game-Projects\2D Zombie Survival\2D Zombie Survival\_2D_Zombie_Survival\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+02:00</Value>
+        <Value>2011-09-01T17:22:30+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2011-09-01T16:22:30+02:00</Value>
+        <Value>2011-09-01T17:22:30+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+02:00</Value>
+        <Value>2011-09-01T17:22:30+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+02:00</Value>
+        <Value>2011-09-01T17:22:30+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+02:00</Value>
+        <Value>2011-09-01T17:22:30+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2011-09-01T16:22:30+02:00</Value>
+        <Value>2011-09-01T17:22:30+02:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2016-08-04T02:26:32.7915118+02:00</Value>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-10-01T06:50:53.4523166+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
